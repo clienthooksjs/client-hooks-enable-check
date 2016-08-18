@@ -15,13 +15,13 @@ class EnableCheckPlugin {
   }
 
   [Symbol.for('initProcess')]() {
-    const modulePath = path.join(__dirname, 'check.js');
+    const modulePath = path.join(__dirname, 'lib','validator.js');
 
     this[Symbol.for('process')] = fork(modulePath, [], { silent: true });
   }
 
   [Symbol.for('bindProcessExitCallback')]() {
-    const modulePath = path.join(__dirname, 'enable-check.js');
+    const modulePath = path.join(__dirname, 'lib', 'enable-check.js');
 
     const childProcess = getProcess();
 
