@@ -12,7 +12,7 @@
 - Current system install [Git](https://git-scm.com) (version >= `2.9.0`).
 - Current system install [Node](https://nodejs.org) (version >= `6.3.1`).
 
-### Basci Installation
+### Basic Installation
 
 ```bash
 npm install --save-dev client-hooks-enable-check
