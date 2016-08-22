@@ -2,6 +2,8 @@
 
 ## Brief Introduction
 
+<a href="https://asciinema.org/a/83473" target="_blank"><img src="https://asciinema.org/a/83473.png" width="587"/></a>
+
 ## Features
 
 ## Getting Started
