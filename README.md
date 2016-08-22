@@ -6,7 +6,7 @@
 
 ## Features
 
-**Simple:** do not care about the details of additional plug-automated complete all work.
+**Simple:** do not care about the details of additional, plugin automated complete all work.
 
 ## Getting Started
 
