@@ -1,4 +1,4 @@
-## client-hooks-enable-check [![npm version][npm-version]][npm-url]
+# client-hooks-enable-check [![npm version][npm-version]][npm-url]
 
 ## Brief Introduction
 
